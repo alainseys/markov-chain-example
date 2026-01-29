@@ -18,7 +18,7 @@ This project implements a chatbot that generates responses using a Markov chain 
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-   cd markov-chat
+   cd markov-chain-example
    ```
 
 2. Create and activate a virtual environment (recommended):
